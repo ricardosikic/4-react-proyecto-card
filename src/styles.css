@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:300");
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+.card {
+  margin: 0 auto;
+  margin-top: 60px;
+  padding: 10px;
+  background: #fff;
+  width: 400px;
+  height: 360px;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  box-shadow: 0px 5px 5px 0px #ccc;
+}
+
+.titulo-card p {
+  margin-left: 55px;
+  margin-top: 2px;
+  position: fixed;
+}
+
+.fecha-card {
+  margin-top: -40px;
+  position: fixed;
+  margin-left: 55px;
+  font-size: 13px;
+  color: gray;
+  font-style: italic;
+}
+
+.foto {
+  margin-top: 2px;
+  width: 50px;
+  height: 50px;
+  border-radius: 100px;
+}
+
+.profesion-card {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.texto-card {
+  text-align: justify;
+  width: 390px;
+}
+
+.fa-heart {
+  margin-top: 30px;
+  float: right;
+  margin-right: 10px;
+}
